@@ -1,4 +1,22 @@
 {
-  "name": "",
-  "version": ""
+  "name": "codeexamples",
+  "version": "1.0.0",
+  "description": "MSc thesis example code",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palladas/MSc-Thesis.git"
+  },
+  "author": "Georgios Katsikiotis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palladas/MSc-Thesis/issues"
+  },
+  "homepage": "https://github.com/palladas/MSc-Thesis#readme",
+  "dependencies": {
+    "serve-static": "^1.13.2"
+  }
 }

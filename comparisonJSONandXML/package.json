@@ -1,0 +1,14 @@
+{
+  "name": "jsontoxml",
+  "version": "0.0.1",
+  "description": "simple JSON to XML converter and fileSize Comparison",
+  "main": "\" \"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgios Katsikiotis",
+  "license": "MIT",
+  "dependencies": {
+    "js2xmlparser": "^3.0.0"
+  }
+}
